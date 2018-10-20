@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContactManager>
+  <VersionDate>2/1/11</VersionDate>
+  <VersionNumber>1.0</VersionNumber>
+  <Contact Sex="M">
+    <FirstName>Mickey</FirstName>
+    <LastName>Mouse</LastName>
+    <PhoneNumber>401-555-1212</PhoneNumber>
+    <FaxNumber>401-666-6666</FaxNumber>
+    <EmailAddress>mmouse@disney.com</EmailAddress>
+  </Contact>
+  <Contact Sex="F">
+    <FirstName>Betsy</FirstName>
+    <LastName>Ross</LastName>
+    <PhoneNumber>716-123-5454</PhoneNumber>
+    <FaxNumber>716-777-7777</FaxNumber>
+    <EmailAddress>bross@usa.gov</EmailAddress>
+  </Contact>
+  <Contact Sex="F">
+    <FirstName>Taylor</FirstName>
+    <LastName>Swift</LastName>
+    <PhoneNumber>978-444-1234</PhoneNumber>
+    <FaxNumber>401-555-5555</FaxNumber>
+    <EmailAddress>tswift@aol.com</EmailAddress>
+  </Contact>
+  <Contact Sex="F">
+    <FirstName>Selena</FirstName>
+    <LastName>Gomez</LastName>
+    <PhoneNumber>212-222-4242</PhoneNumber>
+    <FaxNumber>212-999-7654</FaxNumber>
+    <EmailAddress>sgomez@hotmail.com</EmailAddress>
+  </Contact>
+ <Contact Sex="M">
+    <FirstName>Zac</FirstName>
+    <LastName>Efron</LastName>
+   <PhoneNumber>323-111-1111</PhoneNumber>
+   <FaxNumber>323-444-4444</FaxNumber>
+   <EmailAddress>zefron@yahoo.com</EmailAddress>
+  </Contact>
+
+</ContactManager>
